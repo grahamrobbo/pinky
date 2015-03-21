@@ -1,0 +1,11 @@
+{
+    "name": "samples.components.pinky",
+    "version": "0.1.0",
+    "description": "Sample pinky components",
+    "keywords": [
+        "image",
+        "example" 
+    ],
+    "dependencies": {
+    }
+}
